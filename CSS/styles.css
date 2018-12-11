@@ -1,11 +1,24 @@
 
-#galileo {
+#galileo1 {
   height: 200px;
-  /* display: block; */
+  float: left;
+  margin: 0px 20px 5px 0px;
 }
 
-.galileo-image {
+#galileo2 {
+  height: 300px;
+  float: right;
+  margin: 0px 20px 5px 0px;
+}
+
+/* .galileo-image {
   float: left;
+} */
+
+p {
+  width: 1000px;
+  font-size: 30px;
+  font-weight: 600;
 }
 
 span {
