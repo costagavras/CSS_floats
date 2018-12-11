@@ -16,7 +16,6 @@
 } */
 
 p {
-  width: 1000px;
   font-size: 30px;
   font-weight: 600;
 }
@@ -24,4 +23,36 @@ p {
 span {
   font-size: 30px;
   font-weight: 600;
+}
+
+.col {
+  background-color: red;
+  width: 50px;
+  margin: 0px 20px;
+}
+
+#parent {
+  width: 600px;
+  border: black;
+}
+
+#col1 {
+  height: 500px;
+  float: left;
+}
+#col2 {
+  height: 400px;
+  float: left;
+}
+#col3 {
+  height: 300px;
+  float: left;
+}
+#col4 {
+  height: 200px;
+  float: right;
+}
+#col5 {
+  height: 100px;
+  float: right;
 }
