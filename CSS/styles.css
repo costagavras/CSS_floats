@@ -1,4 +1,9 @@
 
 #galileo {
   height: 200px;
+  /* display: block; */
+}
+
+.galileo-image {
+  float: left;
 }
