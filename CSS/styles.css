@@ -56,3 +56,7 @@ span {
   height: 100px;
   float: right;
 }
+
+#test {
+  clear: both;
+}
